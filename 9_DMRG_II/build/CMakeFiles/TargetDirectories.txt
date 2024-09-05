@@ -1,0 +1,3 @@
+/home/ziga/Desktop/FMF/magisterij/visje_racunske_metode/9_DMRG_II/build/CMakeFiles/TEBD.dir
+/home/ziga/Desktop/FMF/magisterij/visje_racunske_metode/9_DMRG_II/build/CMakeFiles/edit_cache.dir
+/home/ziga/Desktop/FMF/magisterij/visje_racunske_metode/9_DMRG_II/build/CMakeFiles/rebuild_cache.dir
